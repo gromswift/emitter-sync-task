@@ -1,0 +1,14 @@
+{
+  "name": "emitter-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx ts-node emitter-sync-pattern.ts",
+    "test": "npx ts-node tests.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
